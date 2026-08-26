@@ -41,3 +41,6 @@ build/
 # ── Coverage ──────────────────────────────────────────────────────────────────
 .coverage
 htmlcov/
+
+# Personal reference docs
+project_deep_dive.md
